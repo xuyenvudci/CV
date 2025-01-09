@@ -12,6 +12,9 @@ Ich bin eine engagierte Ingenieurin mit neun Jahren Erfahrung im Telekommunikati
 ### Fähigkeiten
 
 ### Sprachen
+**Vietnamesisch**       Muttersprache
+**Englisch**            Gute Kenntnisse
+**Deutsch**             Gute Kenntnisse
 
 ### Interessen
 - Yoga
