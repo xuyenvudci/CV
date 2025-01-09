@@ -6,15 +6,22 @@ Telekommunikation Ingenieurin Und Web Entwicklerin
 Ich bin eine engagierte Ingenieurin mit neun Jahren Erfahrung im Telekommunikationssystem und Webentwicklung von Data Center. In meinen bisherigen Projekten habe ich zum Aufbau und zur Entwicklung von Telekommunikations und INformationstechnologiediensten beigetragen. Darunter Online Meetings, Admininistrator und Kundentools für mein Unternehmen.
 
 ### Berufserfahrungen
+04.2019 - 06.2024
+
+02.2015 - 03.2019
+
+06.2011 - 02.2015
+
+12.2010 - 02.2011
 
 ### Bildungsweg
 
 ### Fähigkeiten
 
 ### Sprachen
-**Vietnamesisch**       Muttersprache
-**Englisch**            Gute Kenntnisse
-**Deutsch**             Gute Kenntnisse
+- **Vietnamesisch**       Muttersprache
+- **Englisch**            Gute Kenntnisse
+- **Deutsch**             Gute Kenntnisse
 
 ### Interessen
 - Yoga
