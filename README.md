@@ -6,13 +6,15 @@ Telekommunikation Ingenieurin Und Web Entwicklerin
 Ich bin eine engagierte Ingenieurin mit neun Jahren Erfahrung im Telekommunikationssystem und Webentwicklung von Data Center. In meinen bisherigen Projekten habe ich zum Aufbau und zur Entwicklung von Telekommunikations und INformationstechnologiediensten beigetragen. Darunter Online Meetings, Admininistrator und Kundentools für mein Unternehmen.
 
 ### Berufserfahrungen
-04.2019 - 06.2024 : #### Berlin
+12.2024 - 02.2026 : **DCI Institute**
 
-02.2015 - 03.2019 : #### System Inginieurin
+04.2019 - 06.2024 : **Berlin**
 
-06.2011 - 02.2015 : #### System Inginieurin und PHP Entwicklerin
+02.2015 - 03.2019 : **System Inginieurin**
 
-12.2010 - 02.2011 : #### Telekommunikation Network Inginieurin
+06.2011 - 02.2015 : **System Inginieurin und PHP Entwicklerin**
+
+12.2010 - 02.2011 : **Telekommunikation Network Inginieurin**
 
 ### Bildungsweg
 
